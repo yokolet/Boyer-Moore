@@ -9,7 +9,7 @@ pytest = "*"
 [packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
 
 [scripts]
 unittest = "pipenv run pytest -s"
