@@ -1,6 +1,11 @@
 Algorithm test
 ===
 
+### Introduction
+
+This is an implementation of Boyer-Moore string-search algorithm. It finds the first occurrence of the pattern in the
+text and returns the index. If the pattern is not found, it returns -1.
+
 ### Usage
 
 ```bash
